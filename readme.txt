@@ -8,4 +8,8 @@ Creating a new branch is quick.
 =======
 ？？？
 >>>>>>> dev
+<<<<<<< Updated upstream
 “Git is a free software
+=======
+123123123
+>>>>>>> Stashed changes
